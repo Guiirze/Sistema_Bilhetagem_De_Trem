@@ -1,8 +1,8 @@
 Este projeto foi construído para praticar conceitos de Java voltados ao mercado corporativo:
 
 - BigDecimal: Cálculos de impostos (15%) e multiplicadores de classe sem perda de centavos, utilizando RoundingMode.HALF_UP.
-- Regex (Expressões Regulares): Validação de passaportes internacionais seguindo o padrão rigoroso de 2 letras e 6 números (^[A-Za-z]{2}\\d{6}$).
-- Enums: Uso de Enums com construtores e atributos para gerenciar multiplicadores de preços de forma elegante.
+- Regex (Expressões Regulares): Validação de passaportes internacionais seguindo o padrão de 2 letras e 6 números (^[A-Za-z]{2}\\d{6}$).
+- Enums: Uso de Enums com construtores e atributos para gerenciar multiplicadores de preços.
 - Tratamento de Exceções: Implementação de Checked Exceptions personalizadas (PassaporteInvalidoException) para controle de fluxo e segurança.
 - Records: Utilização de estruturas imutáveis para transporte de dados de venda.
 - Geração Aleatória: Uso de ThreadLocalRandom para sorteio de assentos e portões de embarque.
