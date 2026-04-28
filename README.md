@@ -16,6 +16,7 @@ Este projeto foi construído para praticar conceitos de Java voltados ao mercado
 💻 Exemplo de Execução
 
 --- DETALHAMENTO DE CUSTOS ---
+
 Passagem Base (PRIMEIRA_CLASSE): R$ 7502.50
 
 Impostos (15%): R$ 1125.38
