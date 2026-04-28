@@ -17,12 +17,19 @@ Este projeto foi construído para praticar conceitos de Java voltados ao mercado
 
 --- DETALHAMENTO DE CUSTOS ---
 Passagem Base (PRIMEIRA_CLASSE): R$ 7502.50
+
 Impostos (15%): R$ 1125.38
+
 Taxa Fixa: R$ 2.30
+
 TOTAL A PAGAR: R$ 8630.18
 
 --- Bilhete emitido, obrigado pela preferência!! ---
+
 Passaporte: BR987654
+
 Classe escolhida: PRIMEIRA_CLASSE
+
 Embarque: Portão 5
+
 Assento: 79
