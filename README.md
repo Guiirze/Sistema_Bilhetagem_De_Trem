@@ -14,6 +14,7 @@ Este projeto foi construído para praticar conceitos de Java voltados ao mercado
 - Acomodação: Sorteia automaticamente o portão de embarque e o assento do passageiro (1 a 100).
 
 💻 Exemplo de Execução
+
 --- DETALHAMENTO DE CUSTOS ---
 Passagem Base (PRIMEIRA_CLASSE): R$ 7502.50
 Impostos (15%): R$ 1125.38
